@@ -11,22 +11,17 @@ const DescriptionBox = () => {
         </div>
         <div className="descriptionbox-description">
             <p>
-Discover the perfect blend of technology and style with our innovative smartwatch.
-Designed for the modern individual, this sleek accessory not only keeps you connec
-ted with notifications for calls, messages, and social media but also helps you st
-ay on top of your fitness goals with comprehensive tracking for steps, heart rate,
-and sleep patterns. Boasting a long-lasting battery and compatibility with both iO
-S and Android devices, it ensures you stay connected all day. With a variety of cu
-stomizable watch faces andbands, you can easily match it to your personal style. E
-levate your lifestyle with this must-have smartwatch and experience the future ofk 
-wearable technology today.
-</p>
-<p>
-Introducing our elegant blouse, a perfect blend of sophistication and style. Crafte
-d from premium, lightweight fabric, this blouse offers a comfortable and breathable
- fit that’s ideal for any occasion. The timeless design features a classic round ne
- ckline, delicate button closures, and subtly flared sleeves that add a touch of fe
- mininity. Its versatile silhouette effortlessly transitions from day to 
+            Pets are loyal, affectionate, and often protective animals that make
+            excellent companions. They come in a variety of breeds, sizes, and
+            temperaments, making it possible to find the perfect Pet for any
+            lifestyle. Whether you prefer a small or a larger, more active breed,
+            Pets are known for their companionship and ability to bond deeply
+            with their owners.Pets are playful, and affectionate pets known for
+            their graceful movementsand curious nature. They are relatively low-maintenance
+             compared to some other pets, making them ideal for busy households.Petts can be
+            both indoor and outdoor pets, but keeping them indoors can protect them from various
+            dangers
+ 
 
 
 </p>

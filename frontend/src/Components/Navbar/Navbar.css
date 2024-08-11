@@ -3,6 +3,7 @@
     justify-content: space-around;
     padding: 16px;
     box-shadow: 0 1px 3px -2px black;
+    background: linear-gradient(180deg, #DEAC80,#e1ffea22 60%);
 
 
 }
@@ -18,6 +19,7 @@
     display: flex;
     align-items: center;
     gap: 10px;;
+    
 }
 .nav-logo p{
     color: #171717;
@@ -30,7 +32,7 @@
     list-style: none;
     gap: 50px;
     color: #626266;
-    font-size: 20px;
+    font-size: 28px;
     font-weight: 500;
 }
 .nav-menu li{

@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import './Offers.css'
 import exclusive_image from '../Assests/exclusive_image.png'
  
@@ -18,4 +18,4 @@ const Offers = () => {
     )
 }
 
-export default Offers
+export default Offers*/

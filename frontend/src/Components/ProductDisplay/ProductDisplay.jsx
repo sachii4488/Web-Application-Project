@@ -37,23 +37,23 @@ const ProductDisplay = (props) => {
 
                 </div>
                 <div className="productdisplay-right-description">
-                Looking for a loving home, this adorable dog is ready to become your new best friend! [He/She] is a [breed], [age] old, with a friendly and playful temperament that's perfect for families and individuals alike. [He/She] is fully vaccinated, spay
+                Looking for a loving home, this adorable Pet is ready to become your new best friend! Who with a friendly and playful temperament that's perfect for families and individuals alike. pet is fully vaccinated, spay
                 </div>
                 <div className="productdisplay-right-size">
                 
-                    <h1>Select Size</h1>
-                    <div className="productdisplay-right-size">
-                        <div>S</div>
-                        <div>M</div>
-                        <div>L</div>
-                        <div>XL</div>
-                        <div>XXL</div>
-                    </div>
+                    {/* <h1>Select Size</h1> */}
+                    {/* <div className="productdisplay-right-size"> */}
+                        {/* <div>S</div> */}
+                        {/* <div>M</div> */}
+                        {/* <div>L</div> */}
+                        {/* <div>XL</div> */}
+                        {/* <div>XXL</div> */}
+                    {/* </div> */}
                     </div>
                     <button onClick={()=>{addToCart(product.id)}}>ADD TO CART</button>
             
-                <p className='productdisplay-right-category'><span>Category :</span>Women , T-Shirt, Crop Top</p>
-                <p className='productdisplay-right-category'><span>Tags :</span>Modern , Latest</p>
+                {/* <p className='productdisplay-right-category'><span>Category :</span>Women , T-Shirt, Crop Top</p> */}
+                {/* <p className='productdisplay-right-category'><span>Tags :</span>Modern , Latest</p> */}
         </div>
         </div>
     )

@@ -1,7 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 //import navlogo from '../../assets/nav-logo.svg';
-import navlogo from '../../assets/Navbar-logo.png';
+import navlogo from '../../assets/Logo2.png';
 
 //import navProfile from '../../assets/nav-profile.svg';
 import navProfile from '../../assets/SachiProfile.jpeg';

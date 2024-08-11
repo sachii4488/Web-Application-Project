@@ -1,8 +1,9 @@
 .loginsignup{
     width: 100%;
     height: 80vh;
-    background: #fce3fe;
+    background: linear-gradient(180deg, #DEAC80,#e1ffea22 90%);
     padding-top: 20px;
+
 }
 .loginsignup-container{
     width: 400px;
@@ -47,6 +48,7 @@
     color: #5c5c5c;
     font-size: 18px;
     font-weight: 500;
+    cursor: pointer;
 }
 .loginsignup-login span{
     color: #ff4141;

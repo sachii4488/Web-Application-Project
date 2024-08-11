@@ -33,9 +33,9 @@ const remove_Product = async (id) => {
 }
   return (
     <div className='list-product'>
-      <h1>All Products List</h1>
+      <h1>All Pets List</h1>
       <div className="listproduct-format-main">
-        <p>Products</p>
+        <p>Pets</p>
         <p>Title</p>
         <p>Old Price</p>
         <p>New Price</p>
