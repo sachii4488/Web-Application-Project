@@ -79,7 +79,7 @@ const signup = async()=>{
               
 
               <div className="loginsignup-agree">
-                <input type="checkbox" nmae='' id />
+                <input type="checkbox" name='' id />
                 <p>By continuing,i agree to the terms of use & privacy policy.</p>
               </div>
             </div>
